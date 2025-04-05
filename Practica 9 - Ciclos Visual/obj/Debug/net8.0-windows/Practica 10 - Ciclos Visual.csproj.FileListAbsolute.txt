@@ -1,0 +1,32 @@
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\bin\Debug\net8.0-windows\Practica 10 - Ciclos Visual.exe
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\bin\Debug\net8.0-windows\Practica 10 - Ciclos Visual.deps.json
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\bin\Debug\net8.0-windows\Practica 10 - Ciclos Visual.runtimeconfig.json
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\bin\Debug\net8.0-windows\Practica 10 - Ciclos Visual.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\bin\Debug\net8.0-windows\Practica 10 - Ciclos Visual.pdb
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\obj\Debug\net8.0-windows\Practica_10___Ciclos_Visual.Form1.resources
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.csproj.GenerateResource.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.AssemblyInfoInputs.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.AssemblyInfo.cs
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\obj\Debug\net8.0-windows\refint\Practica 10 - Ciclos Visual.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.pdb
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.genruntimeconfig.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 10 - Ciclos Visual\obj\Debug\net8.0-windows\ref\Practica 10 - Ciclos Visual.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\bin\Debug\net8.0-windows\Practica 10 - Ciclos Visual.exe
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\bin\Debug\net8.0-windows\Practica 10 - Ciclos Visual.deps.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\bin\Debug\net8.0-windows\Practica 10 - Ciclos Visual.runtimeconfig.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\bin\Debug\net8.0-windows\Practica 10 - Ciclos Visual.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\bin\Debug\net8.0-windows\Practica 10 - Ciclos Visual.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\obj\Debug\net8.0-windows\Practica_10___Ciclos_Visual.Form1.resources
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.csproj.GenerateResource.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.AssemblyInfoInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.AssemblyInfo.cs
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\obj\Debug\net8.0-windows\refint\Practica 10 - Ciclos Visual.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\obj\Debug\net8.0-windows\Practica 10 - Ciclos Visual.genruntimeconfig.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 9 - Ciclos Visual\obj\Debug\net8.0-windows\ref\Practica 10 - Ciclos Visual.dll
