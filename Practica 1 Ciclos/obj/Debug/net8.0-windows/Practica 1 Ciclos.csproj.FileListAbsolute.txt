@@ -1,0 +1,48 @@
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.exe
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.deps.json
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.runtimeconfig.json
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.pdb
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica_1_Ciclos.Form1.resources
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.csproj.GenerateResource.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.AssemblyInfoInputs.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.AssemblyInfo.cs
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\refint\Practica 1 Ciclos.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.pdb
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.genruntimeconfig.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\ref\Practica 1 Ciclos.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.exe
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.deps.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.runtimeconfig.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica_1_Ciclos.Form1.resources
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.csproj.GenerateResource.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.AssemblyInfoInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.AssemblyInfo.cs
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\refint\Practica 1 Ciclos.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.genruntimeconfig.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Practicsa\Practica 1 Ciclos\obj\Debug\net8.0-windows\ref\Practica 1 Ciclos.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.exe
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.deps.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.runtimeconfig.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\bin\Debug\net8.0-windows\Practica 1 Ciclos.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica_1_Ciclos.Form1.resources
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.csproj.GenerateResource.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.AssemblyInfoInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.AssemblyInfo.cs
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\obj\Debug\net8.0-windows\refint\Practica 1 Ciclos.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\obj\Debug\net8.0-windows\Practica 1 Ciclos.genruntimeconfig.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 1 Ciclos\obj\Debug\net8.0-windows\ref\Practica 1 Ciclos.dll
