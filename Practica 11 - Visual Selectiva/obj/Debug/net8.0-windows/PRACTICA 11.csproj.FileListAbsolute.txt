@@ -1,0 +1,32 @@
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.exe
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.deps.json
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.runtimeconfig.json
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.dll
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.pdb
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA_11.Form1.resources
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.csproj.GenerateResource.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.dll
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\refint\PRACTICA 11.dll
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.pdb
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.genruntimeconfig.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\ref\PRACTICA 11.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.exe
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.deps.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.runtimeconfig.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA_11.Form1.resources
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.csproj.GenerateResource.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.AssemblyInfoInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.AssemblyInfo.cs
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\refint\PRACTICA 11.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.genruntimeconfig.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Programacion\Visual Studio\PRACTICA 11\obj\Debug\net8.0-windows\ref\PRACTICA 11.dll
