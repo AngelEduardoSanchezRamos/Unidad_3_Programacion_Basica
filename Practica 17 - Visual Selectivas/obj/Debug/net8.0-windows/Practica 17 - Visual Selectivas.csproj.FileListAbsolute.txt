@@ -1,0 +1,32 @@
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\bin\Debug\net8.0-windows\Practica 17 - Visual Selectivas.exe
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\bin\Debug\net8.0-windows\Practica 17 - Visual Selectivas.deps.json
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\bin\Debug\net8.0-windows\Practica 17 - Visual Selectivas.runtimeconfig.json
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\bin\Debug\net8.0-windows\Practica 17 - Visual Selectivas.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\bin\Debug\net8.0-windows\Practica 17 - Visual Selectivas.pdb
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica_17___Visual_Selectivas.Form1.resources
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.csproj.GenerateResource.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.AssemblyInfoInputs.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.AssemblyInfo.cs
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\refint\Practica 17 - Visual Selectivas.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.pdb
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.genruntimeconfig.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\ref\Practica 17 - Visual Selectivas.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\bin\Debug\net8.0-windows\Practica 17 - Visual Selectivas.exe
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\bin\Debug\net8.0-windows\Practica 17 - Visual Selectivas.deps.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\bin\Debug\net8.0-windows\Practica 17 - Visual Selectivas.runtimeconfig.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\bin\Debug\net8.0-windows\Practica 17 - Visual Selectivas.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\bin\Debug\net8.0-windows\Practica 17 - Visual Selectivas.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica_17___Visual_Selectivas.Form1.resources
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.csproj.GenerateResource.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.AssemblyInfoInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.AssemblyInfo.cs
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\refint\Practica 17 - Visual Selectivas.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\Practica 17 - Visual Selectivas.genruntimeconfig.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 17 - Visual Selectivas\obj\Debug\net8.0-windows\ref\Practica 17 - Visual Selectivas.dll

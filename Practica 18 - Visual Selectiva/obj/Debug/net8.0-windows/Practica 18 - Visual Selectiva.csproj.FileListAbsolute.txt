@@ -1,0 +1,32 @@
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\bin\Debug\net8.0-windows\Practica 18 - Visual Selectiva.exe
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\bin\Debug\net8.0-windows\Practica 18 - Visual Selectiva.deps.json
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\bin\Debug\net8.0-windows\Practica 18 - Visual Selectiva.runtimeconfig.json
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\bin\Debug\net8.0-windows\Practica 18 - Visual Selectiva.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\bin\Debug\net8.0-windows\Practica 18 - Visual Selectiva.pdb
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica_18___Visual_Selectiva.Form1.resources
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.csproj.GenerateResource.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.AssemblyInfoInputs.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.AssemblyInfo.cs
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\refint\Practica 18 - Visual Selectiva.dll
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.pdb
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.genruntimeconfig.cache
+C:\Users\LENOVO T560\Downloads\Practicsa\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\ref\Practica 18 - Visual Selectiva.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\bin\Debug\net8.0-windows\Practica 18 - Visual Selectiva.exe
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\bin\Debug\net8.0-windows\Practica 18 - Visual Selectiva.deps.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\bin\Debug\net8.0-windows\Practica 18 - Visual Selectiva.runtimeconfig.json
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\bin\Debug\net8.0-windows\Practica 18 - Visual Selectiva.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\bin\Debug\net8.0-windows\Practica 18 - Visual Selectiva.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica_18___Visual_Selectiva.Form1.resources
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.csproj.GenerateResource.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.AssemblyInfoInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.AssemblyInfo.cs
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\refint\Practica 18 - Visual Selectiva.dll
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.pdb
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\Practica 18 - Visual Selectiva.genruntimeconfig.cache
+C:\Users\LENOVO T560\OneDrive\Desktop\Visual Studio - Practicas\Practica 18 - Visual Selectiva\obj\Debug\net8.0-windows\ref\Practica 18 - Visual Selectiva.dll
